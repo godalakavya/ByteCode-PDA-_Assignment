@@ -183,6 +183,7 @@ print(1000*a)
 a=2.5
 b=4+a
 print(b,type(b))
+print(a,type(a))
 
 
 # In[32]:
