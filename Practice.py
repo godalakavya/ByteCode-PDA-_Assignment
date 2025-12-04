@@ -15,6 +15,7 @@ print(l2)
 
 
 l1=[10,11,23,45,78,90,42,41]
+print(l1,type(l1))
 l2=[]
 for num in l1:
      if num>=40:
