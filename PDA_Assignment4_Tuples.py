@@ -40,6 +40,8 @@ print("the element at the second row and third column ",mat[1][2])
 t1=(1,2,3)
 t2=(4,5,6)
 t3=t1+t2
+print(t1,type(t1))
+print(t2,type(t2))
 print("Concatenate tuple:",t3)
 
 
