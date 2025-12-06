@@ -26,12 +26,13 @@ df
 
 
 df.iloc[2,1]
-
+df
 
 # In[9]:
 
 
 df[['A','C']]
+df
 
 
 # In[10]:
